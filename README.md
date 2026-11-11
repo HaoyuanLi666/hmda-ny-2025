@@ -1,6 +1,6 @@
 # Mortgage Denial Patterns in New York, 2025
 
-Haoyuan Li | [email]
+Haoyuan Li 
 Repository: https://github.com/HaoyuanLi666/hmda-ny-2025
 
 ## Context
